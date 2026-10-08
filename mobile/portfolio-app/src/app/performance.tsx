@@ -25,7 +25,7 @@ const gameShows = [
   ["The Remix", "2017 • Percussionist", "VTV3"],
   ["Giọng Hát Việt", "2017 • Percussionist", "VTV3"],
   ["Giọng Hát Việt Nhí", "2017 • Percussionist", "VTV3"],
-  ["Tuyệt Đình Song Ca", "2016 • Percussionist", "THVL"],
+  ["Tuyệt Đỉnh Song Ca", "2016 • Percussionist", "THVL"],
   ["Thần Tượng Bolero", "2017 • Percussionist", "VTV3"],
   ["Sao Đại Chiến", "2017 • Percussionist", "VTV3"],
   ["Ai Sẽ Thành Sao", "2017 • Percussionist", "THVL"],
