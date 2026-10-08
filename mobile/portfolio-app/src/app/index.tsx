@@ -125,7 +125,7 @@ export default function HomeScreen() {
         <View style={styles.aboutSection}>
 
           <Text style={styles.aboutTitle}>
-            {language === "en" ? "TRAN HAU" : "TRẦN HẬU"}
+            {language === "en" ? "HAU TRAN" : "TRẦN HẬU"}
           </Text>
 
           <Text style={styles.aboutDescription}>

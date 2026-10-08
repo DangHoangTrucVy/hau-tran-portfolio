@@ -29,12 +29,36 @@ const featuredShows = [
     ],
   },
 
+   {
+    title: "Yêu Hòa Bình 2022-2023-2024",
+    images: [
+      require("../../assets/image/7/1.png"),
+      require("../../assets/image/7/IMG_8430.png"),
+      require("../../assets/image/7/IMG_8431.png"),
+      require("../../assets/image/7/IMG_8432.png"),
+      require("../../assets/image/7/IMG_8433.png"),
+      require("../../assets/image/7/IMG_8434.png"),
+      require("../../assets/image/7/IMG_8449.png"),
+      require("../../assets/image/7/IMG_8461.png"),
+    ],
+  },
+
   {
     title: "Grand Opus Piano Competition GOPC 2024",
     images: [
       require("../../assets/image2/GOPC2024/IMG_8359.jpg"),
       require("../../assets/image2/GOPC2024/IMG_8360.jpg"),
       require("../../assets/image2/GOPC2024/IMG_8361.jpg"),
+    ],
+  },
+
+   {
+    title: "In Gratitude - Concert",
+    images: [
+      require("../../assets/image/12/IMG_2323.png"),
+      require("../../assets/image/12/IMG_2328.png"),
+      require("../../assets/image/12/IMG_2329.png"),
+      require("../../assets/image/12/IMG_9562.png"),
     ],
   },
 
