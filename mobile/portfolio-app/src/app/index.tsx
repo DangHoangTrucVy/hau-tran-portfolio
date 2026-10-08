@@ -1020,6 +1020,7 @@ bottomTab: {
     color: "#777",
 
     fontSize: 9,
+    textAlign: "center",
   },
 
   bottomLabelActive: {

@@ -1346,6 +1346,7 @@ heroDescription: {
   bottomText: {
     color: "#777",
     fontSize: 9,
+    textAlign: "center",
   },
 
   bottomActive: {

@@ -1737,7 +1737,7 @@ const styles = StyleSheet.create({
     color: "#777",
 
     fontSize: 9,
-
+    textAlign: "center",
   },
 
   bottomLabelActive: {
